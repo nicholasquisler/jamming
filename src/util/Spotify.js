@@ -1,5 +1,5 @@
 const clientId = process.env.clientId_KEY;
-const redirectUri = 'https://nicholasquisler.github.io/jamming/';
+const redirectUri = process.env.redirectURL;
 let accessToken;
 
 const Spotify = {
