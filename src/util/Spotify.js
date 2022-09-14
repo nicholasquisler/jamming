@@ -1,5 +1,6 @@
-const clientId = process.env.clientId_KEY;
-const redirectUri = process.env.redirectURL;
+const clientId = process.env.CLIENTID_KEY;
+const redirectUri = process.env.URL;
+const secret = process.env.SECRET;
 let accessToken;
 
 const Spotify = {
