@@ -3,6 +3,9 @@
 ### Website Link
 - http://juvenile-loaf.surge.sh/
 
+### Preview
+![alt text](https://github.com/nicholasquisler/nicholasquisler.github.io/raw/main/images/Jamming.PNG)
+
 ### About
 - This is an website that communicates with the Spotify API to search from songs and then create a playlist to my account.
 
